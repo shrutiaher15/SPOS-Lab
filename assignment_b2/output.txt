@@ -1,0 +1,25 @@
+import java.util.Scanner;	==>Preprocessor
+public	==> ACCESS SPECIFIER
+class	==> KEYWORDS
+Test	==> IDENTIFIER
+{	==> BLOCK BEGIN
+public	==> ACCESS SPECIFIER
+static	==> KEYWORDS
+void	==> DATATYPE
+main	==> IDENTIFIER
+(	==> PARANTHESIS BEGIN
+String	==> DATATYPE
+args	==> IDENTIFIER
+)	==> PARENTHESIS END
+{	==> BLOCK BEGIN
+System	==> IDENTIFIER
+out	==> IDENTIFIER
+println	==> IDENTIFIER
+(	==> PARANTHESIS BEGIN
+Hello	==> IDENTIFIER
+world	==> IDENTIFIER
+)	==> PARENTHESIS END
+;	==> DELIMITER
+}	==> BLOCK END
+}	==> BLOCK END
+

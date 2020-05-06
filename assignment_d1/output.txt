@@ -1,0 +1,58 @@
+LRU - 
+
+Capacity of frame window: 3
+Number of pages in the sequence: 20
+Enter the frame value: 7
+Enter the frame value: 0
+Enter the frame value: 1
+Enter the frame value: 2
+Enter the frame value: 0
+Enter the frame value: 3
+Enter the frame value: 0
+Enter the frame value: 4
+Enter the frame value: 2
+Enter the frame value: 3
+Enter the frame value: 0
+Enter the frame value: 3
+Enter the frame value: 2
+Enter the frame value: 1
+Enter the frame value: 2
+Enter the frame value: 0
+Enter the frame value: 1
+Enter the frame value: 7
+Enter the frame value: 0
+Enter the frame value: 1
+
+Number of page faults: 12
+Number of page hits: 8
+Hit ratio: 0.6
+
+Optimal -
+
+Capacity of frame window: 3
+Number of pages in the sequence: 20
+Enter the frame value: 7
+Enter the frame value: 0
+Enter the frame value: 1
+Enter the frame value: 2
+Enter the frame value: 0
+Enter the frame value: 3
+Enter the frame value: 0
+Enter the frame value: 4
+Enter the frame value: 2
+Enter the frame value: 3
+Enter the frame value: 0
+Enter the frame value: 3
+Enter the frame value: 2
+Enter the frame value: 1
+Enter the frame value: 2
+Enter the frame value: 0
+Enter the frame value: 1
+Enter the frame value: 7
+Enter the frame value: 0
+Enter the frame value: 1
+
+Number of page faults: 9
+Number of page hits: 11
+Hit ratio: 0.45
+ 

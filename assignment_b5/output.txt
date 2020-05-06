@@ -1,0 +1,10 @@
+PRONOUN	==>He
+VERB	==>goes
+PREPOSN	==>to
+NOUN	==>school
+CONJUNCN	==>and
+NOUN	==>she
+VERB	==>playing
+ADVERB	==>gently
+NOUN	==>football
+It is a compound sentence

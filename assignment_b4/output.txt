@@ -1,0 +1,6 @@
+int	==>Integer
+a	==>Identifier
+=	==>Assignment operator
+10	==>Int no
+;	==>Delimiter
+Valid integer declaration
